@@ -4,12 +4,13 @@
 
 
 ## I'm a  Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here 
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a humorist
 
 
 ### Talk with me, I am kinda awesome:
