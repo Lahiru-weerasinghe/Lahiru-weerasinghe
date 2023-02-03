@@ -15,7 +15,7 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" />][fb]
+[<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" />][facebook]
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][linkedin]
 [<img align="left" alt="holisitc_developer | Pinterest" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504932.png" />][linkedin]
 
@@ -58,7 +58,7 @@
 </details>
 
 [website]: https://holistic-developer.com/
-[fb]: [https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw](https://www.facebook.com/lahiru.weerasinghe.1401/)
+[facebook]: [https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw](https://www.facebook.com/lahiru.weerasinghe.1401/)
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [portfolio]: https://arsentieva.github.io/profile/
