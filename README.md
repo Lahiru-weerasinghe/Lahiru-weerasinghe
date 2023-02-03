@@ -17,7 +17,7 @@
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />]
 [<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" />]
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />]
-[<img align="left" alt="holisitc_developer | Pinterest" width="22px" src="https://https://cdn-icons-png.flaticon.com/512/2504/2504932.png" />]
+[<img align="left" alt="holisitc_developer | Pinterest" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504932.png" />]
 
 
 <br />
