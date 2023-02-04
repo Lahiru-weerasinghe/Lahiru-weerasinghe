@@ -16,8 +16,6 @@ I love to share knowledge with the rest of the world. I also like to share my co
 
 - 📫 How to reach me **weerasinghelahiru1999@gmail.com**
 
--
-
 
 
 ### Talk with me, I am kinda awesome:
