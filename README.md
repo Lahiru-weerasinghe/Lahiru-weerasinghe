@@ -14,18 +14,14 @@ I love to share knowledge with the rest of the world. I also like to share my co
 
 - 💬 Ask me about **Anything...**
 
-- 📫 How to reach me **weerasinghelahiru1999@gmail.com**
-
 
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="Lahiru-weerasinghe | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Lahiru-weerasinghe | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Lahiru-weerasinghe | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Lahiru-weerasinghe | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Lahiru-weerasinghe | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Lahiru-weerasinghe | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Lahiru-weerasinghe | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Lahiru-weerasinghe | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" />][linkedin]
+[<img align="left" alt="Lahiru-weerasinghe | Instagram " width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][linkedin]
+[<img align="left" alt="Lahiru-weerasinghe | Youtube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Lahiru-weerasinghe | Pinterest" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504932.png" />][linkedin]
 
 <br />
 
@@ -52,12 +48,12 @@ I love to share knowledge with the rest of the world. I also like to share my co
 
 ### My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomezgrave&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomezgrave&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lahiru-weerasinghe&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru-weerasinghe&&exclude_repo=Lahiru-weerasinghe&layout=compact&theme=dracula" alt="languages"/>
 
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[website]: 
+[youtube]: 
+[instagram]: 
+[linkedin]: 
+[portfolio]: 
