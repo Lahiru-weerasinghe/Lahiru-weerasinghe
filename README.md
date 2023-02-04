@@ -45,19 +45,11 @@ I love to share knowledge with the rest of the world. I also like to share my co
 <br />
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### My stats
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomezgrave&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomezgrave&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
 
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details>
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
