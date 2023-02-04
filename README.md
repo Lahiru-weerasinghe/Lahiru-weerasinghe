@@ -51,8 +51,4 @@ I love to share knowledge with the rest of the world. I also like to share my co
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahiru-weerasinghe&&exclude_repo=Lahiru-weerasinghe&layout=compact&theme=dracula" alt="languages"/>
 
 
-[website]: 
-[youtube]: 
-[instagram]: 
-[linkedin]: https://www.linkedin.com/in/lahiru-weerasinghe
-[portfolio]: 
+
