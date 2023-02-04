@@ -17,11 +17,10 @@ I love to share knowledge with the rest of the world. I also like to share my co
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="Lahiru-weerasinghe | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Lahiru-weerasinghe | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" />][linkedin]
-[<img align="left" alt="Lahiru-weerasinghe | Instagram " width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][linkedin]
-[<img align="left" alt="Lahiru-weerasinghe | Youtube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Lahiru-weerasinghe | Pinterest" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504932.png" />][linkedin]
+<p align="left">
+<a href="https://linkedin.com/in/pinsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinsara" height="30" width="40" /></a>
+<a href="https://instagram.com/pinsara_chandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinsara_chandika" height="30" width="40" /></a>
+</p>
 
 <br />
 
