@@ -1,23 +1,20 @@
-### Hello World, I'm lahiru  👋
+### Hello World, I'm Rumi  👋
 
- <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
 
 
-## I'm a  Developer, Creator, and Mentor!!
-- ✍ You can find my projects here 
+## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+- ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning React Native and Azure
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a humorist
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="holisitc_developer | Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" />]
-[<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][linkedin]
-[<img align="left" alt="holisitc_developer | Pinterest" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504932.png" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -46,23 +43,19 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Lahiru's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Lahiru's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
 </details>
 
 [website]: https://holistic-developer.com/
-[facebook]: [https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw](https://www.facebook.com/lahiru.weerasinghe.1401/)
+[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [portfolio]: https://arsentieva.github.io/profile/
-
-
-
-
