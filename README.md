@@ -19,7 +19,7 @@ I love to share knowledge with the rest of the world. I also like to share my co
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Lahiru-weerasinghe | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
@@ -43,7 +43,6 @@ I love to share knowledge with the rest of the world. I also like to share my co
 
 <br />
 <br />
----
 
 ### My stats
 
