@@ -20,6 +20,9 @@ I love to share knowledge with the rest of the world. I also like to share my co
 <p align="left">
 <a href=" https://www.linkedin.com/in/lahiru-weerasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinsara" height="30" width="40" /></a>
 <a href="https://instagram.com/pinsara_chandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinsara_chandika" height="30" width="40" /></a>
+  <a href="https://instagram.com/pinsara_chandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinsara_chandika" height="30" width="40" /></a>
+  <a href="https://instagram.com/pinsara_chandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinsara_chandika" height="30" width="40" /></a>
+  <a href="https://instagram.com/pinsara_chandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinsara_chandika" height="30" width="40" /></a>
 </p>
 
 <br />
