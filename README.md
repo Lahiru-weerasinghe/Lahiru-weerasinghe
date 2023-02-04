@@ -8,7 +8,7 @@ I love to share knowledge with the rest of the world. I also like to share my co
 
 
 
-- 🔭 I'm currently working on my**Youtube channel**
+- 🔭 I'm currently working on **React/Node.js web project**
 
 - 🌱 I’m currently learning **machine learning for web development**
 
