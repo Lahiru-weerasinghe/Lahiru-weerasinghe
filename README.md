@@ -18,11 +18,11 @@ I love to share knowledge with the rest of the world. I also like to share my co
 
 ### Talk with me, I am kinda awesome:
 <p align="left">
-<a href=" https://www.linkedin.com/in/lahiru-weerasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinsara" height="30" width="40" /></a>
-<a href="https://instagram.com/pinsara_chandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinsara_chandika" height="30" width="40" /></a>
-  <a href="https://instagram.com/pinsara_chandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinsara_chandika" height="30" width="40" /></a>
-  <a href="https://instagram.com/pinsara_chandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinsara_chandika" height="30" width="40" /></a>
-  <a href="https://instagram.com/pinsara_chandika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pinsara_chandika" height="30" width="40" /></a>
+<a href=" https://www.linkedin.com/in/lahiru-weerasinghe" target="blank"><img align="center" src="" alt="lahiru" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lahiru.weerasinghe.1401/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="lahiru_lakshan" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/lahir_weerasinghe/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="lahiru_lakshan" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCFTnFvGQUEOHXbU-zI0RWvQ" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3938/3938026.png" alt="lahiru_lakshan" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504932.png" alt="lahiru_lakshan" height="30" width="40" /></a>
 </p>
 
 <br />
