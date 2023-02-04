@@ -1,5 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Lahiru</h1>
 
+### Who am I?
+
+I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
+I love to share knowledge with the rest of the world, and that's why I write a lot of articles, conduct courses, and make YouTube videos.
+Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them.
+
  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="320" />
 
 
@@ -10,7 +16,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: *I also enjoy making new food and trying new cuisines.
 
 
 ### Talk with me, I am kinda awesome:
