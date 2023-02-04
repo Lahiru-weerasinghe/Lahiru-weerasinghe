@@ -55,5 +55,5 @@ I love to share knowledge with the rest of the world. I also like to share my co
 [website]: 
 [youtube]: 
 [instagram]: 
-[linkedin]: https://www.linkedin.com/in/lahiru-weerasinghe/
+[linkedin]: https://www.linkedin.com/in/lahiru-weerasinghe
 [portfolio]: 
