@@ -18,9 +18,9 @@ I love to share knowledge with the rest of the world. I also like to share my co
 <p align="left">
 <a href=" https://www.linkedin.com/in/lahiru-weerasinghe" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="lahiru" height="40" width="40" /></a>
 <a href="https://www.facebook.com/lahi.wee/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png" alt="lahiru_lakshan" height="40" width="40" /></a>
- <a href="https://www.instagram.com/lahir_weerasinghe/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="lahiru_lakshan" height="40" width="40" /></a>
+ <a href="https://www.facebook.com/lahi.wee/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="lahiru_lakshan" height="40" width="40" /></a>
   <a href="https://www.youtube.com/channel/UCFTnFvGQUEOHXbU-zI0RWvQ" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3938/3938026.png" alt="lahiru_lakshan" height="40" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504932.png" alt="lahiru_lakshan" height="40" width="40" /></a>
+  <a href="https://www.pinterest.com/lahi_wee/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504932.png" alt="lahiru_lakshan" height="40" width="40" /></a>
 </p>
 
 
